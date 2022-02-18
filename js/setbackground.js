@@ -20,3 +20,8 @@ function changeColorBody() {
 }
 
 pbCol.addEventListener("click", changeColorBody);
+
+
+
+
+

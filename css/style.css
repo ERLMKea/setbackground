@@ -16,9 +16,27 @@ body {
   border: none;
   background-color: #0000ff;
   color: #4f72cb;
-  font-size: 8;
+  font-size: 18px;
   font-family: inherit;
   padding: 1rem 1rem;
+  cursor: pointer;
+}
+
+.btn4 {
+  background-color: #0000ff;
+  color: #ff0000;
+  font-size: 18px;
+  font-family: inherit;
+  padding: 1rem 1rem;
+  cursor: pointer;
+}
+
+.padding {
+  background-color: #0000ff;
+  color: #ff0000;
+  font-size: 18px;
+  font-family: inherit;
+  padding: 10rem 10rem;
   cursor: pointer;
 }
 

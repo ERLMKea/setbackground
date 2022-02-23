@@ -31,6 +31,10 @@ body {
   cursor: pointer;
 }
 
+.ikkevis {
+  display: none;
+}
+
 .padding {
   background-color: #0000ff;
   color: #ff0000;
